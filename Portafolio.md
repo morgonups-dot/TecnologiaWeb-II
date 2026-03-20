@@ -45,7 +45,5 @@ Realidad Aumentada, gamificación, sistemas de tiempo dinámicos, juegos como Do
 
 ---
 
-## Otros idiomas a nivel vasico
+## Otros idiomas a nivel básico
 - Inglés 
-- Francés 
-- Japonés 
